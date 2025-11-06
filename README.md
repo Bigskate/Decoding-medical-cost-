@@ -50,3 +50,53 @@ Data[BMI] >= 18.5 && Data[BMI] < 25, "Normal",
 Data[BMI] >= 25 && Data[BMI] < 30, "Overweight",
 Data[BMI] >= 30, "Obese"
 )
+
+📊 Dashboard Pages
+
+1️⃣ Overview Dashboard
+KPIs: Average Age, Average BMI, Total Charges
+
+Regional cost breakdown
+
+Interactive slicers for gender and region
+
+Insight: Southeast region shows highest average medical charges.
+
+
+2️⃣ Lifestyle Impact Dashboard
+Scatter plot: BMI vs. Charges by smoker status
+
+Histogram of BMI distribution + average charge overlay
+
+Insight: Smokers pay ~30% more on average; higher BMI = higher cost.
+
+
+3️⃣ Demographics Dashboard
+Average charges by Age Group, Gender, and Region
+
+Tooltips and filters for detail exploration
+
+Insight: Costs rise sharply after age 45; males pay slightly more on average.
+
+📈 Key Insights
+💨 Smokers pay ~30% more in medical charges.
+
+⚖️ Obese individuals (BMI > 30) have highest costs.
+
+👨‍🦳 Costs increase steadily after age 45.
+
+🌍 Southeast region records highest average charges.
+
+❤️ Healthy lifestyle = lower long-term medical spending.
+
+🚀 Impact & Recommendations
+
+
+This dashboard helps:
+
+Insurance companies improve pricing and risk models.
+
+Healthcare providers target preventive health campaigns.
+
+Individuals understand cost drivers and make better health decisions.
+
